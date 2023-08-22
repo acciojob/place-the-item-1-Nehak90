@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.boxblue{
+    width:100px;
+    height: 100px;
+    border-radius: 0px;
+    background-color: blue;
+}
+
+.boxgreen{
+    width:100px;
+    height: 100px;
+    border-radius: 0px;
+    background-color: green;
+}
+
+.boxred{
+    width:100px;
+    height: 100px;
+    border-radius: 0px;
+    background-color: red;
+}
